@@ -1,0 +1,42 @@
+.message-list-container{
+    padding: 10px; 
+}
+.message {
+    display: flex;
+    flex-direction: column;
+}
+
+.messageRoomJoin{
+    align-self: center;
+    background: #c4cad1;
+    color: white;
+    text-align: center;
+    padding:10px 15px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.message.mine .msgContent {
+    align-self: flex-end;
+    background: #007aff;
+    color: white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.message .msgContent{
+    align-self: flex-start;
+    margin: 1px 0px;
+    background: #f4f4f8;
+    padding: 10px 15px;
+    border-radius: 20px;
+    max-width: 75%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
