@@ -19,7 +19,6 @@ npm install or yarn add  <br />
 npm start or yarn start  <br />
 
 
-### 1.React 와 Node 를 실행한다. <br />
-### 2.브라우저 새로운 창 2개를 연다. <br />
-### 3.http://localhost:3000/JoinRoom  들어간다. <br />
-### 4. 각각 룸번호는 같게 사용자명은 다르게 입력하여 접속 한 뒤 채팅테스트를 한다.
+#### 1.React 와 Node 를 실행한다. <br />
+#### 2.브라우저 새로운 창 2개를 열고 , 각각 http://localhost:3000/JoinRoom  들어간다. <br />
+#### 3. 각각 룸번호는 같게 사용자명은 다르게 입력하여 접속 한 뒤 채팅테스트를 한다.
